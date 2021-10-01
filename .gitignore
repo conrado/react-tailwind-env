@@ -2,3 +2,7 @@ node_modules
 .history
 public
 .bit
+
+.parcel-cache/
+.yarn/
+dist/
